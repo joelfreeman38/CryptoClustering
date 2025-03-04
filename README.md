@@ -35,8 +35,4 @@ For more information see the [Python Software Foundation Code of Conduct](https:
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 data-sourcing-challenge is an open-source project with a single maintainer. The best way to resolve your issue is to fix it yourself. Fork the repository and submit a pull request. 
 
-### Get help
-
-Ask the maintainer: [Chris Gilbert][1]
-
-[1]: https://github.com/xraySMULu
+https://github.com/joelfreeman38
